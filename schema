@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infinity Massage Brighton Schema</title>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["HealthAndBeautyBusiness", "LocalBusiness"],
+  "@id": "https://www.infinitymassagebrighton.co.uk/#organization",
+  "name": "Infinity Massage Therapy Brighton",
+  "alternateName": "Infinity Massage Brighton",
+  "legalName": "Black Gmma Ltd",
+  "description": "Professional massage therapy clinic in Brighton city centre specializing in sports massage, deep tissue massage, and relaxation treatments. Expert therapist Harminder provides high-quality therapeutic massage targeting problem areas, preparing clients for athletic events, and facilitating recovery. Offering organic and vegan massage options for skin-friendly, environmentally conscious treatments.",
+  "url": "https://www.infinitymassagebrighton.co.uk/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/12/harminder-logo.png",
+    "width": "242",
+    "height": "120"
+  },
+  "image": [
+    "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/10/5-IMG_5551.jpg",
+    "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/10/1-IMG_5546.jpg",
+    "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/10/2-IMG_5547.jpg"
+  ],
+  "telephone": "+44-7946-711196",
+  "email": "info@infinitymassagebrighton.co.uk",
+  "priceRange": "££-£££",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "36A Duke Street",
+    "addressLocality": "Brighton",
+    "addressRegion": "East Sussex",
+    "postalCode": "BN1 1AG",
+    "addressCountry": "GB"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "50.821434",
+    "longitude": "-0.139622"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Wednesday", "Thursday"],
+      "opens": "07:00",
+      "closes": "22:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Saturday", "Sunday"],
+      "opens": "10:00",
+      "closes": "19:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/infinitybrighton/",
+    "https://www.instagram.com/infinity_massage_therapy/",
+    "https://twitter.com/infinitymassag5/",
+    "https://www.linkedin.com/company/infinity-massage-therapy/",
+    "https://www.tripadvisor.co.uk/Attraction_Review-g1897554-d20160150-Reviews-Infinity_Massage_Therapy-Brighton_and_Hove_East_Sussex_England"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Brighton"
+    },
+    {
+      "@type": "City",
+      "name": "Hove"
+    },
+    {
+      "@type": "City",
+      "name": "Brighton and Hove"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "East Sussex"
+    }
+  ],
+  "knowsAbout": [
+    "Sports Massage",
+    "Deep Tissue Massage",
+    "Relaxation Massage",
+    "Therapeutic Massage",
+    "Pain Relief Treatment",
+    "Muscle Tension Release",
+    "Soft Tissue Therapy",
+    "Back Pain Treatment",
+    "Injury Recovery",
+    "Athletic Performance",
+    "Trigger Point Therapy",
+    "Myofascial Release",
+    "Fibromyalgia Treatment"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Massage Therapy Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sports Massage - 30 Minutes",
+          "description": "Specialized sports massage for athletes and active individuals. Increases blood circulation, promotes muscle growth, encourages fast recovery.",
+          "serviceType": "Sports Massage"
+        },
+        "price": "32.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sports Massage - 60 Minutes",
+          "description": "Full body sports massage treatment for comprehensive muscle care.",
+          "serviceType": "Sports Massage"
+        },
+        "price": "60.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sports Massage - 90 Minutes",
+          "description": "Extended sports massage session for deep treatment.",
+          "serviceType": "Sports Massage"
+        },
+        "price": "90.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Deep Tissue Massage - 30 Minutes",
+          "description": "Deep tissue massage focused on deeper muscle layers to release chronic tension.",
+          "serviceType": "Deep Tissue Massage"
+        },
+        "price": "32.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Deep Tissue Massage - 60 Minutes",
+          "description": "Full hour deep tissue treatment for chronic pain relief.",
+          "serviceType": "Deep Tissue Massage"
+        },
+        "price": "60.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Deep Tissue Massage - 90 Minutes",
+          "description": "Extended deep tissue session for comprehensive treatment.",
+          "serviceType": "Deep Tissue Massage"
+        },
+        "price": "90.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Relaxation Massage - 30 Minutes",
+          "description": "Therapeutic relaxation massage for stress relief and muscle tension.",
+          "serviceType": "Relaxation Massage"
+        },
+        "price": "32.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Relaxation Massage - 60 Minutes",
+          "description": "Full body relaxation massage for comprehensive stress relief.",
+          "serviceType": "Relaxation Massage"
+        },
+        "price": "60.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Relaxation Massage - 90 Minutes",
+          "description": "Extended relaxation session for deep stress relief.",
+          "serviceType": "Relaxation Massage"
+        },
+        "price": "90.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  "employee": {
+    "@type": "Person",
+    "@id": "https://www.infinitymassagebrighton.co.uk/#harminder",
+    "name": "Harminder",
+    "jobTitle": "Massage Therapist",
+    "description": "Professional massage therapist with Level 3 qualification from YMCA Brighton. Specializes in sports massage, deep tissue therapy, and therapeutic treatments.",
+    "worksFor": {
+      "@id": "https://www.infinitymassagebrighton.co.uk/#organization"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Professional Certification",
+      "name": "Level 3 Sports & Remedial Massage Therapy",
+      "educationalLevel": "Level 3",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "YMCA Brighton"
+      }
+    }
+  },
+  "founder": {
+    "@id": "https://www.infinitymassagebrighton.co.uk/#harminder"
+  },
+  "foundingDate": "2019-09",
+  "hasMap": "https://www.google.com/maps/place/Infinity+Massage+Therapy+Brighton/@50.8214219,-0.1418162,17z/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.infinitymassagebrighton.co.uk/"
+  }
+}
+</script>
+</head>
+<body>
+<!-- Schema markup only - no visible content needed -->
+</body>
+</html>
